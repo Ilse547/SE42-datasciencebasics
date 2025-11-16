@@ -37,10 +37,9 @@ GROUP BY
 
 ### Questions:
 1. Which bird species are the most commonly observed overall?
-2. Which bird species are the most commonly observed overall?
+2. What are the top 5 most observed species in each country?
 3. What are the seasonal patterns in bird observations?
-4. Which species show the most significant changes in observation frequency over the years?
-6. What are the top 5 most observed species in each country?
+4. Which species show the most significant changes in observation frequency over the years?   
 
 ## Files:
 The questions are answered using the matching jupyter notebook or python file  
@@ -50,4 +49,20 @@ Question numbered as 1 is answered using the file:
 The files ending with: ``` .ipynb ``` need to be run using a jupyter notebook.  
 The files ending with : ``` .py ``` can be run using the command:  
 ``` python3 <filename> ``` or simply in vscode.  
+To rpoperly run the file and allow pandas to read the csv file, replace the path of the second cell ot the absolut path of the file:
+```
+df = pd.read_csv("<Path>/0035785-251025141854904.csv",
+sep="\t",
+skiprows=1,
+names=[
+    "species","specieskey","year","month","countrycode","occurences"
+])
+```
 
+# Answers:
+## Q1: Which bird species are the most commonly observed overall?
+Files: ``` Q1.ipynb ``` and ``` /python/Q1.py ```
+
+After processing the data we can see which are the 10 most observed species in germany and france.  
+
+![alt text](/graphs/q1.png "Graph for Q1")
