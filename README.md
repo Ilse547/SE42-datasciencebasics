@@ -37,7 +37,7 @@ GROUP BY
 
 ### Questions:
 1. Which bird species are the most commonly observed overall?
-2. What are the top 5 most observed species in each country?
+2. How do bird sightings vary over the year?  
 3. What are the seasonal patterns in bird observations?
 4. Which species show the most significant changes in observation frequency over the years?   
 
