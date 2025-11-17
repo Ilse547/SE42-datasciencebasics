@@ -66,3 +66,16 @@ Files: ``` Q1.ipynb ``` and ``` /python/Q1.py ```
 After processing the data we can see which are the 10 most observed species in germany and france.  
 
 ![alt text](/graphs/q1.png "Graph for Q1")
+
+
+## Q2: How do bird sightings vary over the year?  
+Files:``` Q2.ipynb ``` and ``` /python/Q2.py ```
+![alt text](/graphs/q2.png "Graph for Q2")  
+We can see that at the begining of the year and at the end of the year are the least bird sightings.  
+We see a spike in the months of september and october, which corresponds to the migration of geese to the south. 
+During the colder months of November, December, January and February there are the least bird sightings, we can interpret it as a mix of 2 reasons:
+1. People dont go out as often in winter than in warmer months.  
+2. The birds that remain in Europe in those months are smaller birds such as Doves, Great Tits, Blue Tits, Moorhen etc.. which are birds that can hide pretty well  
+
+During the months in the middle of the year there are bigger birds that are also more known like geese, mallard ducks etc..  
+people also tend to spend more time outside because of the wamer temperatures.  
