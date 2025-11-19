@@ -39,7 +39,8 @@ GROUP BY
 1. Which bird species are the most commonly observed overall?
 2. How do bird sightings vary over the year?  
 3. Which species show the most significant changes in observation frequency over the years?   
-
+4. How does the number of sightings of Phylloscopus collybita vary per month and country?
+5.
 ## Files:
 The questions are answered using the matching jupyter notebook or python file  
 Question numbered as 1 is answered using the file:  
@@ -79,6 +80,14 @@ During the colder months of November, December, January and February there are t
 During the months in the middle of the year there are bigger birds that are also more known like geese, mallard ducks etc..  
 people also tend to spend more time outside because of the wamer temperatures.  
 
-## Q2: Which species show the most significant changes in observation frequency over the years?  
+## Q3: Which species show the most significant changes in observation frequency over the years?  
 Files:``` Q3.ipynb ``` and ``` /python/Q3.py ```
-![alt text](/graphs/q3.png "Graph for Q3")
+![alt text](/graphs/q3.png "Graph for Q3")  
+We see that the biggest changes over the years are birds that mostly live in the cities like tits, pigeons, blackbirds and crows.  
+
+## Q4: How does the number of sightings of Phylloscopus collybita vary per month and country?
+Files:``` Q4.ipynb ``` and ``` /python/Q4.py ```  
+![alt text](/graphs/q4.png "Graph for Q4")  
+
+We can observe that the Chiffchaff (Phylloscopus collybita) is more observed in germany, especially in the months of april, may, and august where we have a really big difference. This is due to the german climate, they live in the north on europe and migrate to the south during the winter.  
+Thats the reason we see a small spike in septermber were they start there migration and move to france.  
