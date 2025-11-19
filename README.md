@@ -38,8 +38,7 @@ GROUP BY
 ### Questions:
 1. Which bird species are the most commonly observed overall?
 2. How do bird sightings vary over the year?  
-3. What are the seasonal patterns in bird observations?
-4. Which species show the most significant changes in observation frequency over the years?   
+3. Which species show the most significant changes in observation frequency over the years?   
 
 ## Files:
 The questions are answered using the matching jupyter notebook or python file  
@@ -79,3 +78,7 @@ During the colder months of November, December, January and February there are t
 
 During the months in the middle of the year there are bigger birds that are also more known like geese, mallard ducks etc..  
 people also tend to spend more time outside because of the wamer temperatures.  
+
+## Q2: Which species show the most significant changes in observation frequency over the years?  
+Files:``` Q3.ipynb ``` and ``` /python/Q3.py ```
+![alt text](/graphs/q3.png "Graph for Q3")
