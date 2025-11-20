@@ -91,3 +91,10 @@ Files:``` Q4.ipynb ``` and ``` /python/Q4.py ```
 
 We can observe that the Chiffchaff (Phylloscopus collybita) is more observed in germany, especially in the months of april, may, and august where we have a really big difference. This is due to the german climate, they live in the north on europe and migrate to the south during the winter.  
 Thats the reason we see a small spike in septermber were they start there migration and move to france.  
+
+## Q5: How doe4s the diversity of different species changed over the years ?
+Files:``` Q5.ipynb ``` and ``` /python/Q5.py ```  
+![alt text](/graphs/q5.png "Graph for Q5")    
+
+We see that the overall sightings of different spcies has gone up, probably not because there is a bigger diversity but rather because more people have found this hobby and started reporting birds they saw.  
+We can see this a bit since there is a dip in observations in the year 2021 where there was the covid pandemic and less people went outside. In that time nature took over cities and animals like flamingoes returned in metropoles like Mumbai. 
