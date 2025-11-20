@@ -49,6 +49,9 @@ Question numbered as 1 is answered using the file:
 The files ending with: ``` .ipynb ``` need to be run using a jupyter notebook.  
 The files ending with : ``` .py ``` can be run using the command:  
 ``` python3 <filename> ``` or simply in vscode.  
+
+The jupyter ntoebook files were transformed into python files using vscode.  
+
 To rpoperly run the file and allow pandas to read the csv file, replace the path of the second cell ot the absolut path of the file:
 ```
 df = pd.read_csv("<Path>/0035785-251025141854904.csv",
