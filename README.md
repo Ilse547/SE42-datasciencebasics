@@ -40,7 +40,7 @@ GROUP BY
 2. How do bird sightings vary over the year?  
 3. Which species show the most significant changes in observation frequency over the years?   
 4. How does the number of sightings of Phylloscopus collybita vary per month and country?
-5.
+5. How doe4s the diversity of different species changed over the years ?
 ## Files:
 The questions are answered using the matching jupyter notebook or python file  
 Question numbered as 1 is answered using the file:  
